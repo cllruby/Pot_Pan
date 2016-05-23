@@ -5,7 +5,7 @@ import android.app.Application;
 
 import java.util.LinkedList;
 import java.util.List;
-
+//Created by Cai Linglong (1302074)
 public class cll_exit extends Application {
 
     private List<Activity> activityList = new LinkedList<Activity>();

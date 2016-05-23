@@ -21,7 +21,7 @@ import com.example.ziyang.potpan.util.SocketClient;
 import com.example.ziyang.potpan.Main.wxx_main;
 
 import static com.example.ziyang.potpan.Data.zzy_constants.*;
-
+//Created by Cai Linglong (1302074)
 public class cll_main extends Activity {
 
     private Button loginbutton, Quit;

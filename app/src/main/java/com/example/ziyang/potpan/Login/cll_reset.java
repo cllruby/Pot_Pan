@@ -14,7 +14,7 @@ import com.example.ziyang.potpan.R;
 import com.example.ziyang.potpan.util.SocketClient;
 
 import static com.example.ziyang.potpan.Data.zzy_constants.UPDATE_PASSWORD;
-
+//Created by Cai Linglong (1302074)
 public class cll_reset extends Activity {
     private Button completebutton;
     private TextView account;

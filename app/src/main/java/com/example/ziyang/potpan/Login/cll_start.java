@@ -17,6 +17,7 @@ import java.util.List;
 
 import static com.example.ziyang.potpan.Data.zzy_constants.*;
 
+//Created by Cai Linglong (1302074)
 public class cll_start extends Activity {
 
     private Intent intent;

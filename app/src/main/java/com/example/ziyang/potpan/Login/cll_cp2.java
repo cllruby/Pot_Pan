@@ -9,7 +9,7 @@ import android.view.View;
 import android.widget.Button;
 
 import com.example.ziyang.potpan.R;
-
+//Created by Cai Linglong (1302074)
 public class cll_cp2 extends Activity {
 
     private Button loginbutton2;
